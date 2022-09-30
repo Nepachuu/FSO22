@@ -10,7 +10,8 @@
 
     const part1 = 'Fundamentals of React'
     const exercises1 = 10
-
+    // moi
+    // hei
     const part2 = 'Using props to pass data'
     const exercises2 = 7
 
